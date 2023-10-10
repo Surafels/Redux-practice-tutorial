@@ -1,0 +1,10 @@
+nav svg {
+    width:40px;
+    color:black;
+}
+.nav-list {
+    display:flex;
+}
+.amount-container{
+    display:flex;
+}
